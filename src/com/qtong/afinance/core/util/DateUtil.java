@@ -34,7 +34,8 @@ public class DateUtil {
 	public static String MMHHmm = "MMHHmm";
 	public static String YYYY__MM = "yyyy/MM";
 	public static final String YYYY___MM = "yyyy年MM月";
-	
+	public static final String YYYY___MM2 = "yyyy年MM月";
+
 
 	
 	
